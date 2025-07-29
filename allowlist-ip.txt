@@ -1,0 +1,19 @@
+# =====================
+# TI - MAC2
+# =====================
+
+@@/.*twitch.*/$client=192.168.0.195
+@@||twitch.tv^$client=192.168.0.195
+@@||twitch.tv^$client=192.168.0.195
+@@||ttvnw.net^$client=192.168.0.195
+@@||twitchcdn.net^$client=192.168.0.195
+
+# =====================
+# CIDS - Adrian
+# =====================
+
+@@/.*twitch.*/$client=192.168.0.159
+@@||twitch.tv^$client=192.168.0.159
+@@||twitch.tv^$client=192.168.0.159
+@@||ttvnw.net^$client=192.168.0.159
+@@||twitchcdn.net^$client=192.168.0.159
