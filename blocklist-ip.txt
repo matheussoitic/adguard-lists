@@ -1,0 +1,8 @@
+# =====================
+# Nome PC ou Usuário
+# =====================
+
+||facebook.com^$client=IP
+||fbcdn.net^$client=IP
+||instagram.com^$client=IP
+||cdninstagram.com^$client=IP
