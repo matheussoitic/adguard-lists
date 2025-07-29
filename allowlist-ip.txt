@@ -9,9 +9,10 @@
 @@||twitchcdn.net^$client=192.168.0.195
 
 # =====================
-# CIDS - Adrian
+# CIDS
 # =====================
 
+# Adrian Damião
 @@/.*twitch.*/$client=192.168.0.159
 @@||twitch.tv^$client=192.168.0.159
 @@||twitch.tv^$client=192.168.0.159
