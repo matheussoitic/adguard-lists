@@ -5,7 +5,7 @@
 @@||soitic.duckdns.org^$important
 
 # =====================
-# Café
+# ArtCafé
 # =====================
 
 @@||gerarchaves.hol.es^$important
@@ -60,25 +60,6 @@
 @@||yahoo.com.br^$important
 
 # =====================
-# ECOS
-# =====================
-
-@@||dns.google^$important
-@@||ads.google.com^$important
-@@||ad.doubleclick.net^$important
-@@||cc-api-data.adobe.io^$important
-@@||aepxlg.adobe.com^$important
-@@||meucarrinho.delivery^$important
-@@||yandex.com^$important
-@@||tiktok.com^$important
-@@||tiktokcdn.com^$important
-@@||tiktokv.com^$important
-@@||allpan.com.br^$important
-@@||avo3.com.br^$important
-@@||cdn.dooca.store^$important
-@@||assets.dooca.store^$important
-
-# =====================
 # Vimeo
 # =====================
 
@@ -96,3 +77,50 @@
 @@||graph.vimeo.com^$important
 @@||embed.vimeo.com^$important
 @@||permanently-available.vimeo.com^$important
+
+# =====================
+# ECOS
+# =====================
+
+@@||dns.google^$important
+@@||ads.google.com^$important
+@@||ad.doubleclick.net^$important
+@@||cc-api-data.adobe.io^$important
+@@||aepxlg.adobe.com^$important
+@@||meucarrinho.delivery^$important
+@@||yandex.com^$important
+@@||tiktok.com^$important
+@@||tiktokcdn.com^$important
+@@||tiktokv.com^$important
+@@||allpan.com.br^$important
+@@||www.avo3.com.br^$important
+@@||avo3.com.br^$important
+@@||cdn.dooca.store^$important
+@@||assets.dooca.store^$important
+
+# =====================
+# CIDS
+# =====================
+
+@@||www.hacktown.com.br^$important
+@@||hacktown.com.br^$important
+@@||www.hacktown.com.br/programacao^$important
+@@||hacktown.com.br/programacao^$important
+@@||hacktown2025.yazo.app.br/5/schedule/public/1/2/light^$important
+@@||hacktown2025.yazo.app.br^$important
+@@||yazo.app.br^$important
+@@||cdn.yazo.app.br^$important
+@@||widget.yazo.app.br^$important
+@@||api.yazo.app.br^$important
+@@||assets.yazo.app.br^$important
+@@||hacktown2025.yazo.app.br/platform^$important
+@@||hacktown-2025-ss-v2.api.yazo.com.br^$important
+@@||fonts.googleapis.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.googletagmanager.com^$important
+@@||www.google-analytics.com^$important
+@@||collect.google-analytics.com^$important
+@@||uc.r.appspot.com^$important
+@@||static.cloudflareinsights.com^$important
+@@||static.whatsapp.net^$important
+@@||cdn.whatsapp.net^$important
