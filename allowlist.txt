@@ -1,0 +1,98 @@
+# =====================
+# SOITIC
+# =====================
+
+@@||soitic.duckdns.org^$important
+
+# =====================
+# Café
+# =====================
+
+@@||gerarchaves.hol.es^$important
+@@||app.askwaiter.com.br^$important
+@@||customer-app.askwaiter.com.br^$important
+@@||api.askwaiter.com.br^$important
+@@||app.homolog.askwaiter.com.br^$important
+@@||customer-app.homolog.askwaiter.com.br^$important
+@@||api.homolog.askwaiter.com.br^$important
+
+# =====================
+# Microsoft
+# =====================
+
+@@||storeedgefd.dsx.mp.microsoft.com^$important
+@@||storeedgefd.microsoft.com^$important
+@@||www.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||emdl.ws.microsoft.com^$important
+@@||assets.msn.com^$important
+@@||client.wns.windows.com^$important
+@@||login.live.com^$important
+@@||login.microsoftonline.com^$important
+@@||device.auth.microsoft.com^$important
+@@||nexus.officeapps.live.com^$important
+@@||v10.events.data.microsoft.com^$important
+@@||settings-win.data.microsoft.com^$important
+
+# =====================
+# Driver Booster
+# =====================
+
+@@||www.iobit.com^$important
+@@||download.iobit.com^$important
+@@||idb.iobit.com^$important
+@@||ascstats.iobit.com^$important
+@@||purchase.iobit.com^$important
+
+# =====================
+# Mercado Livre
+# =====================
+
+@@||mercadolivre.com.br^$important
+@@||matt.mercadolivre.com.br^$important
+
+# =====================
+# Yahoo
+# =====================
+
+@@||br.search.yahoo.com^$important
+@@||search.yahoo.com^$important
+@@||yahoo.com.br^$important
+
+# =====================
+# ECOS
+# =====================
+
+@@||dns.google^$important
+@@||ads.google.com^$important
+@@||ad.doubleclick.net^$important
+@@||cc-api-data.adobe.io^$important
+@@||aepxlg.adobe.com^$important
+@@||meucarrinho.delivery^$important
+@@||yandex.com^$important
+@@||tiktok.com^$important
+@@||tiktokcdn.com^$important
+@@||tiktokv.com^$important
+@@||allpan.com.br^$important
+@@||avo3.com.br^$important
+@@||cdn.dooca.store^$important
+@@||assets.dooca.store^$important
+
+# =====================
+# Vimeo
+# =====================
+
+@@||vimeo.com^$important
+@@||player.vimeo.com^$important
+@@||vimeocdn.com^$important
+@@||f.vimeocdn.com^$important
+@@||i.vimeocdn.com^$important
+@@||skyfire.vimeocdn.com^$important
+@@||fastly.vimeocdn.com^$important
+@@||vimeo.mo.cloudinary.net^$important
+@@||vimeo.net^$important
+@@||vimeo-bynder.imgix.net^$important
+@@||api.vimeo.com^$important
+@@||graph.vimeo.com^$important
+@@||embed.vimeo.com^$important
+@@||permanently-available.vimeo.com^$important
