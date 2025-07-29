@@ -1,0 +1,123 @@
+# =====================
+# Apostas e Bets
+# =====================
+
+/.*bet.*/
+/.*cassino.*/
+/.*apostas.*/
+/.*aposte.*/
+/.*betano.*/
+/.*bet365.*/
+/.*blaze.*/
+/.*superbet.*/
+/.*kto.*/
+/.*sportingbet.*/
+/.*gazetaesportiva.*/
+/.*sportingbet.*/
+/.*apostas.*/
+/.*betdasorte.*/
+/.*br4bet.*/
+/.*meridianbet.*/
+/.*stake.*/
+/.*oleybet.*/
+/.*onabet.*/
+/.*loteria.*/
+/.*megassena.*/
+/.*loto.*/
+/.*quina.*/
+/.*jogodobicho.*/
+
+# =====================
+# Redes Sociais
+# =====================
+
+/.*twitter.*/
+/.*x\.com.*/
+/.*threads.*/
+/.*snapchat.*/
+/.*kwai.*/
+
+# =====================
+# Streaming e Filmes
+# =====================
+
+/.*netflix.*/
+/.*primevideo.*/
+/.*prime\.video.*/
+/.*disneyplus.*/
+/.*disney\.com.*/
+/.*hbomax.*/
+/.*hbo\.com.*/
+/.*globoplay.*/
+/.*starplus.*/
+/.*star\+.*/
+/.*paramountplus.*/
+/.*paramount.*/
+/.*apple\.tv.*/
+/.*tv\.apple.*/
+/.*appletv.*/
+/.*telecineplay.*/
+/.*telecine.*/
+/.*looke.*/
+/.*nowonline.*/
+/.*netcombo.*/
+/.*claro\.tv.*/
+/.*oi\.play.*/
+/.*br\.play\.hbonow.*/
+/.*universalplus.*/
+/.*streaming\.globo.*/
+/.*amctv.*/
+/.*crunchyroll.*/
+/.*twitch.*/
+/.*kick.*/
+/.*bigo\.tv.*/
+/.*cube\.tv.*/
+/.*nonolive.*/
+/.*booyah.*/
+/.*mixer\.com.*/
+/.*nimo\.tv.*/
+/.*trovo\.live.*/
+
+# =====================
+# Plataformas de Jogos
+# =====================
+
+/.*roblox.*/
+/.*minecraft.*/
+/.*epicgames.*/
+/.*fortnite.*/
+/.*steam.*/
+/.*riotgames.*/
+/.*valorant.*/
+/.*playstation.*/
+/.*xbox.*/
+/.*nintendo.*/
+/.*garena.*/
+/.*gamepass.*/
+
+# =====================
+# Torrents
+# =====================
+
+/.*torrent.*/
+/.*torrents.*/
+/.*thepiratebay.*/
+/.*1337x.*/
+/.*rarbg.*/
+/.*yts.*/
+/.*kickasstorrents.*/
+/.*limetorrents.*/
+/.*bitlord.*/
+/.*4shared.*/
+/.*terabox.*/
+
+# =====================
+# Cripto e Mineração
+# =====================
+
+/.*coinhive.*/
+/.*cryptotab.*/
+/.*cryptomining.*/
+/.*ethminer.*/
+/.*nicehash.*/
+/.*minergate.*/
