@@ -18,3 +18,17 @@
 @@||twitch.tv^$client=192.168.0.159
 @@||ttvnw.net^$client=192.168.0.159
 @@||twitchcdn.net^$client=192.168.0.159
+
+# =====================
+# Comercial
+# =====================
+
+# Rodrigo Henrique
+@@/.*telegram.*/$client=192.168.4.21
+@@||telegram.org^$client=192.168.4.21
+@@||t.me^$client=192.168.4.21
+@@||telegram.me^$client=192.168.4.21
+@@||cdn-telegram.org^$client=192.168.4.21
+@@||telegram-cdn.org^$client=192.168.4.21
+@@||telegra.ph^$client=192.168.4.21
+@@||tg.dev^$client=192.168.4.21
