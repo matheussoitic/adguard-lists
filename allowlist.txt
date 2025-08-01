@@ -5,18 +5,6 @@
 @@||soitic.duckdns.org^$important
 
 # =====================
-# ArtCafé
-# =====================
-
-@@||gerarchaves.hol.es^$important
-@@||app.askwaiter.com.br^$important
-@@||customer-app.askwaiter.com.br^$important
-@@||api.askwaiter.com.br^$important
-@@||app.homolog.askwaiter.com.br^$important
-@@||customer-app.homolog.askwaiter.com.br^$important
-@@||api.homolog.askwaiter.com.br^$important
-
-# =====================
 # Microsoft
 # =====================
 
@@ -77,6 +65,32 @@
 @@||graph.vimeo.com^$important
 @@||embed.vimeo.com^$important
 @@||permanently-available.vimeo.com^$important
+
+# =====================
+# ArtCafé
+# =====================
+
+@@||gerarchaves.hol.es^$important
+@@||app.askwaiter.com.br^$important
+@@||customer-app.askwaiter.com.br^$important
+@@||api.askwaiter.com.br^$important
+@@||app.homolog.askwaiter.com.br^$important
+@@||customer-app.homolog.askwaiter.com.br^$important
+@@||api.homolog.askwaiter.com.br^$important
+
+# =====================
+# ADM 2
+# =====================
+
+@@||ciim.med.br^$important
+@@||portal.clinux.com.br/portal/cim/resultados^$important
+@@||portal.clinux.com.br^$important
+@@||lumen.clinux.com.br/chamados/cgi-bin/dwserver.cgi^$important
+@@||lumen.clinux.com.br^$important
+@@||synapse.ciim.med.br/dwclinux/se1/doPortalSetup^$important
+@@||synapse.ciim.med.br/dwclinux/se1/doAgendaLogo^$important
+@@||synapse.ciim.med.br^$important
+@@||visualizador.ciim.med.br^$important
 
 # =====================
 # ECOS
