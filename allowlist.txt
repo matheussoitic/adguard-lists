@@ -111,6 +111,10 @@
 @@||avo3.com.br^$important
 @@||cdn.dooca.store^$important
 @@||assets.dooca.store^$important
+@@||www.usereserva.com^$important
+@@||usereserva.com^$important
+@@||sp.vtex.com^$important
+@@||www.usereserva.com/api/checkout/pub/orderForm^$important
 
 # =====================
 # CIDS
