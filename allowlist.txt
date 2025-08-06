@@ -115,6 +115,10 @@
 @@||usereserva.com^$important
 @@||sp.vtex.com^$important
 @@||www.usereserva.com/api/checkout/pub/orderForm^$important
+@@||color.adobe.com/pt/create^$important
+@@||color.adobe.com^$important
+@@||dpm.demdex.net^$important
+@@||sstats.adobe.com^$important
 
 # =====================
 # CIDS
