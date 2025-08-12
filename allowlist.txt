@@ -124,6 +124,14 @@
 # CIDS
 # =====================
 
+@@||github.com^$important
+@@||desktop.github.com/download^$important
+@@||desktop.github.com^$important
+@@||desktop.githubusercontent.com^$important
+@@||update.github.com^$important
+@@||api.github.com^$important
+@@||raw.githubusercontent.com^$important
+@@||assets-cdn.github.com^$important
 @@||www.hacktown.com.br^$important
 @@||hacktown.com.br^$important
 @@||www.hacktown.com.br/programacao^$important
