@@ -119,6 +119,14 @@
 @@||color.adobe.com^$important
 @@||dpm.demdex.net^$important
 @@||sstats.adobe.com^$important
+@@||web.telegram.org^$important
+@@||telegram.org^$important
+@@||t.me^$important
+@@||telegram.me^$important
+@@||cdn-telegram.org^$important
+@@||telegram-cdn.org^$important
+@@||telegra.ph^$important
+@@||tg.dev^$important
 
 # =====================
 # CIDS
