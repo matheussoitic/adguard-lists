@@ -127,6 +127,8 @@
 @@||telegram-cdn.org^$important
 @@||telegra.ph^$important
 @@||tg.dev^$important
+@@||maquinadetrafegoeconversao.com.br^$important
+@@||api.visitorapi.com^$important
 
 # =====================
 # CIDS
